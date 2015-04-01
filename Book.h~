@@ -9,8 +9,6 @@ class Book{
 private:
     string name;
     Author author;
-
-protected:
     float price;
     int quantity;
 
